@@ -502,11 +502,6 @@
             <url>http://http://52.91.168.231:8081/repository/Releases//</url>
         </repository>
         
-        <snapshotRepository>
-             <id>snapshots</id>
-            <name>snapshots</name>
-            <url>http:http://52.91.168.231:8081/repository/snopshot//</url>
-        <snapshotRepository>
      <distributionManagement>
             
  </project>
