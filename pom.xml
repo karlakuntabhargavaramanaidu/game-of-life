@@ -501,7 +501,6 @@
             <name>Releases</name>
             <url>http://http://52.91.168.231:8081/repository/Releases//</url>
         </repository>
-        
-     <distributionManagement>
+    </distributionManagement>
             
  </project>
